@@ -1,0 +1,4 @@
+- Fix some issues in earlier commits
+- Cleanup leftover notes
+- Review history for mistakes
+- Add more examples
